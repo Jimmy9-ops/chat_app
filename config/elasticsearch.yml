@@ -1,0 +1,4 @@
+
+production:
+  host: 'elasticsearch'
+  port: 9200
